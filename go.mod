@@ -1,3 +1,4 @@
+H
 module github.com/liamg/traitor
 
 go 1.15
